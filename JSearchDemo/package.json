@@ -1,0 +1,27 @@
+{
+  "name": "jsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/deshak9/jsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/deshak9/jsearch#readme",
+  "dependencies": {
+    "@angular/common": "~2.0.2",
+    "@angular/compiler": "~2.0.2",
+    "@angular/core": "~2.0.2",
+    "@angular/forms": "~2.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  },
+  "typings": "./jsearch.d.ts"
+}
