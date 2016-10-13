@@ -12,3 +12,6 @@ Thumbs.db
 
 #IDE
 */.idea/
+
+!systemjs.config.js
+!index.js

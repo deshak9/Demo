@@ -1,0 +1,4 @@
+jsearch = require('jsearch');
+
+
+jsearch();
